@@ -1,0 +1,25 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "Social Network Api",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamika0212/social-network.git"
+  },
+  "author": "Anamika Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anamika0212/social-network/issues"
+  },
+  "homepage": "https://github.com/anamika0212/social-network#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10"
+  }
+}
